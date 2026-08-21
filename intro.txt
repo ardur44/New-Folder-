@@ -1,3 +1,4 @@
 name:lucky_Aryal
 Faculty:CSIT 4th sem 
 contact_number:9825448118
+hello, this is my first repo
